@@ -21,7 +21,6 @@ This project demonstrates a sales dashboard created in Looker Studio to analyze 
 The data for this report is sourced from a CSV file containing historical sales information, including sales transactions, product categories, customer demographics, and sales representatives' performance.
 
 ## How to Use
-- [Link to Looker Studio Report](https://lookerstudio.google.com/reporting/63032674-834f-4d2b-9a8d-2ce43d88d273)
 - Connect the report to your own data source (Google Sheets, SQL database, or other compatible formats)
 - Use the filters to drill down into different products, regions, and time periods.
 
